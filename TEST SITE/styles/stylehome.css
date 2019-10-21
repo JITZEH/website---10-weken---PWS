@@ -1,0 +1,38 @@
+
+#nav { 
+	background-color: blue; }
+
+p
+{
+	text-align:left;;
+}
+
+body{
+	
+background-color: lightblue;
+  color: white;
+}
+
+
+
+H1 {
+color:black;	
+}
+H2 {
+color:gray;	
+}
+H3 {
+color:red;	
+}
+
+H1{
+font-size: 15px;
+}
+H2{
+font-size: 18px;
+}
+
+ #nav li{display:inline-block;}
+ #nav a{color:white; font-size:16px}
+ #nav a.hoofditem{font-size:22.5px}
+ #nav ul{height:50px}
